@@ -1,4 +1,4 @@
-<img src="Downloads/GithubCover.png">
+<img src="[Downloads/GithubCover.png](https://scontent.fcla4-1.fna.fbcdn.net/v/t39.30808-6/486160993_641623685128817_1423608731145287433_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEM6asIAKZ6LN2jenCBTmJ3BfaX71NKTk8F9pfvU0pOT9_78uoxN8crXRKFWHpHEBhxECol_MtpyJgOkkY7sGm9&_nc_ohc=Ge7KOoptM08Q7kNvgGIRkuY&_nc_oc=AdnviZNGLDNVIh8fFEsyq3tQ8-IqF_SnTXzvU9VQpG8b9DFZAlPhjcfRBUBLdcRgtW0&_nc_zt=23&_nc_ht=scontent.fcla4-1.fna&_nc_gid=JuBkmzTdMwHY2tXf3vNlxg&oh=00_AYEoLN3JzxHpKYJclRJaaswNwUfSc6170F2moWg0DRprfQ&oe=67E700BD)">
 <h1 align="center">Hi 👋, I'm Ifradul Islam Sajol</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
