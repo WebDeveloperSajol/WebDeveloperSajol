@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.freelancer.com/u/webdevIkram](https://www.freelancer.com/u/webdevIkram)
 
-- 💬 Ask me about **HTNL , CSS, JavaScript, Bootstdap, jQuery , WordPress development.**
+- 💬 Ask me about **HTML , CSS, JavaScript, Bootstdap, jQuery , WordPress development.**
 
 - 📫 How to reach me **ifradulislamsajol@gmail.com**
 
